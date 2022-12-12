@@ -1,0 +1,6 @@
+[submodule "fast-forward-merge"]
+	path = fast-forward-merge
+	url = https://github.com/GAYATHRI-DHULIPUDI/fast-forward-merge.git
+[submodule "gitRebase"]
+	path = gitRebase
+	url = https://github.com/GAYATHRI-DHULIPUDI/gitRebase.git
